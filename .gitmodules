@@ -1,0 +1,3 @@
+[submodule "Spoons/SlackNotifier.spoon"]
+	path = Spoons/SlackNotifier.spoon
+	url = https://github.com/chriszarate/SlackNotifier.spoon
